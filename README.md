@@ -1,5 +1,5 @@
 # warp_workflow_builder
-I implemented the in-built array addition to build this war pworkflow. This is a warp workflow builder which uses the shell in built  array addition and adds your commands to the in-built array  declaration. Instead of echo, i called the ```C printf``` to add better syntax declaration. Have multiple commands no need to worry, it will take care of everything. 
+I implemented the in-built array addition to build this warp workflow. This is a warp workflow builder which uses the shell in built  array addition and adds your commands to the in-built array  declaration. Instead of echo, i called the ```C printf``` to add better syntax declaration. Have multiple commands no need to worry, it will take care of everything. 
 
 ![warp](https://github.com/sablokgaurav/warp_workflow_builder/blob/main/warp_workflow_builder.png)
 
