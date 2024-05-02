@@ -6,7 +6,7 @@
 
 ![warp](https://github.com/sablokgaurav/warp_workflow_builder/blob/main/warp_workflow_builder.png)
 
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
